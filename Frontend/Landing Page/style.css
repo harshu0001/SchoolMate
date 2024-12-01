@@ -7,8 +7,10 @@ body {
   font-family: "Playfair Display", serif;
   background-size: cover;
   background-image: linear-gradient(to bottom, #080b51, #870057, #d13034, #e09100);
-  background-repeat: no-repeat;
-  background-attachment: fixed;
+  /* background-image: url('D:/Projects/SchoolMate/De-SchoolMate/Images/img/back.jpg');  */
+  /* background-image: url('/Images/back2.png'); */
+  background-repeat: no-repeat; 
+  /* background-attachment: fixed; */
 }
 
 /* Setting default margin and padding to 0 */
